@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:background="#ABC"
+    >
+
+    <TextView
+        android:id="@+id/tv_name_drag_list"
+        android:layout_width="100dp"
+        android:layout_height="match_parent"
+        android:text="名称"
+        android:textColor="@android:color/black"
+        android:gravity="center"
+        android:background="#880"/>
+
+    <TextView
+        android:id="@+id/tv_desc_drag_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="描述"
+        android:textColor="@android:color/black"
+        android:gravity="center"
+        />
+
+</LinearLayout>

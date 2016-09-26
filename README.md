@@ -1,6 +1,7 @@
 # DragListView
 DragListView——可拖拽排序ListView
-[图片展示](https://github.com/zjun615/DragListView/img/04.gif)
+
+![图片展示](https://github.com/zjun615/DragListView/blob/master/img/show.gif)
 
 ##特点：
 1. 可拖拽排序（条目右边1/4空间内）

@@ -6,3 +6,4 @@ DragListView——可拖拽排序ListView
 3. 左滑可删除
 4. 可设置点击和长按事件
 
+详见[博客](http://blog.csdn.net/a10615/article/details/51366459)
